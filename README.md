@@ -1,4 +1,4 @@
-# Trading-Stocks-stategies-
+# Trading-Stocks-strategies-
 
 
 ![Microsoft Stock Analysis](https://github.com/aidamabdelkader/Trading-Stocks-stategies-/assets/66953337/851b3699-5c40-4e78-a4f1-73242d1f7b53)
